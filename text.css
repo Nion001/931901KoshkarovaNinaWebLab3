@@ -75,7 +75,8 @@ p::selection{
 
 @media screen and (max-width: 1200px) {
      main{
-         width: 200px;
+         width: 100%;
      }
+	 .megamain{ width: 100%;}
 
    } 
